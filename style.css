@@ -1,4 +1,19 @@
-    @import url('https://fonts.googleapis.com/css2?family=Coiny&family=Titan+One&display=swap');
+img{
+max-width: 100%;
+    height: auto;
+    display:block;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#wrapper {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sriracha&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 *{
